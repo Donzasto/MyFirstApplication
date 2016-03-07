@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My First Application</string>
+
+    <string-array name="title">
+        <item>good, better, the best</item>
+        <item>this, these, , that, those</item>
+    </string-array>
+</resources>
